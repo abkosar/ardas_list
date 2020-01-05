@@ -26,7 +26,7 @@ SECRET_KEY = 'ijgk%x90+z-$!llq9i*q39vu_bpe#s0iq=g5tz51&mdi^fqpgq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["ardas-list.azurewebsites.net"]
 
 
 # Application definition
